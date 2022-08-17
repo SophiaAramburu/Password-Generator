@@ -17,7 +17,7 @@ View the website at the link below:
 
 
 
-<img src="/.assets/Capture.PNG">
+<img src=>
 
 ## Credits
 
