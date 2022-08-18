@@ -16,8 +16,8 @@ My goal for this challenge was to make a functional password generator using the
 View the website at the link below:
 
 
+![demo](./Assets/Capture.PNG)
 
-<img src=>
 
 ## Credits
 
