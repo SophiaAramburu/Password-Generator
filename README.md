@@ -14,7 +14,7 @@ My goal for this challenge was to make a functional password generator using the
 
 ## Demo
 View the website at the link below:
-
+https://sophiaaramburu.github.io/Password-Generator/
 
 ![demo](./Assets/Capture.PNG)
 
